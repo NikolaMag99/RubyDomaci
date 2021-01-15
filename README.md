@@ -1,1 +1,1 @@
-# Ruby Excel Parser
+# Ruby parser for excel file
